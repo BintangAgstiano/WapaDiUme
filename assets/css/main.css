@@ -3525,3 +3525,6 @@ align-items: center;
 .thumbnail:hover {
   border-color: #156F36;
 }
+.col-btn{
+	margin-bottom: 40px;
+}
